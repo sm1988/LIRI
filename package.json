@@ -1,0 +1,31 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "LIRI Bot",
+  "main": "liri.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node liri"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm1988/LIRI.git"
+  },
+  "keywords": [
+    "LIRI",
+    "liri",
+    "bot"
+  ],
+  "author": "Shishir Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sm1988/LIRI/issues"
+  },
+  "homepage": "https://github.com/sm1988/LIRI#readme"
+}
